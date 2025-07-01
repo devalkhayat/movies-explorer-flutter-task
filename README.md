@@ -58,7 +58,7 @@
 
 <tr>
       <td><strong>Rest API</strong></td>
-      <td><a href="https://pub.dev/packages/dartz](https://developer.themoviedb.org/docs/getting-started)">themoviedb</a></td>
+      <td><a href="https://www.themoviedb.org">themoviedb</a></td>
       <td>Good rest api contains movies data</td>
     </tr>
     
